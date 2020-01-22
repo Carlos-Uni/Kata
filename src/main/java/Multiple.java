@@ -1,13 +1,22 @@
 public class Multiple {
-    public static int of(int number) {
 
-        int sum = 0;
+    private static int sum;
+
+    public static int of(int number) {
+        return checkInterval(number);
+    }
+
+    private static int checkInterval(int number){
+        sum = 0;
         for(int i = 0; i < number; i++){
-            if(i%3 ==0){
+            if(MultipleOf3(i)){
                 sum += i;
             }
         }
-
         return sum;
+    }
+
+    private static boolean MultipleOf3(int i) {
+        return i%3 ==0;
     }
 }
