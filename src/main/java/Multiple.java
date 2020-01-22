@@ -9,7 +9,7 @@ public class Multiple {
     private static int checkInterval(int number){
         sum = 0;
         for(int i = 0; i < number; i++){
-            if(MultipleOf3(i)){
+            if(MultipleOf3(i) || i%5 == 0){
                 sum += i;
             }
         }
