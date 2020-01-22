@@ -37,7 +37,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Multiple_.given_a_4_return_3">
+  <component name="RunManager" selected="JUnit.Multiple_.given_a_10_return_23">
+    <configuration name="Multiple_.given_a_10_return_23" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prueba" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Multiple_" />
+      <option name="METHOD_NAME" value="given_a_10_return_23" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Multiple_.given_a_1_return_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Prueba" />
       <option name="PACKAGE_NAME" value="" />
@@ -60,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Multiple_.given_a_10_return_23" />
         <item itemvalue="JUnit.Multiple_.given_a_4_return_3" />
         <item itemvalue="JUnit.Multiple_.given_a_1_return_1" />
       </list>
