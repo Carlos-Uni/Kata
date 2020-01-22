@@ -9,14 +9,14 @@ public class Multiple {
     private static int checkInterval(int number){
         sum = 0;
         for(int i = 0; i < number; i++){
-            if(MultipleOf3(i) || i%5 == 0){
+            if(isMultiple(i) || isMultiple(i)){
                 sum += i;
             }
         }
         return sum;
     }
 
-    private static boolean MultipleOf3(int i) {
-        return i%3 ==0;
+    private static boolean isMultiple(int i) {
+        return i%3 == 0 || i%5 == 0;
     }
 }
