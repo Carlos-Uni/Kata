@@ -6,7 +6,11 @@ public class Multiple_ {
 
     @Test
     public void given_a_1_return_1(){
-        assertThat(Multiple.of(1)).isEqualTo(1);
+        assertThat(Multiple.of(1)).isEqualTo(0);
     }
-    
+
+    @Test
+    public void given_a_4_return_3(){
+        assertThat(Multiple.of(4)).isEqualTo(3);
+    }
 }

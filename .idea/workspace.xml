@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="464ef908-ff79-447b-9968-2d748c749ce8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Multiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Multiple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Multiple_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Multiple_.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Multiple_.given_a_4_return_3">
     <configuration name="Multiple_.given_a_1_return_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Prueba" />
       <option name="PACKAGE_NAME" value="" />
@@ -51,8 +48,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Multiple_.given_a_4_return_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prueba" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Multiple_" />
+      <option name="METHOD_NAME" value="given_a_4_return_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Multiple_.given_a_4_return_3" />
         <item itemvalue="JUnit.Multiple_.given_a_1_return_1" />
       </list>
     </recent_temporary>
